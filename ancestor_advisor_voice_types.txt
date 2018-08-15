@@ -1,0 +1,13 @@
+Ancestor = {
+    name = "auth_ancestor"
+    icon = "gfx/interface/icons/governments/authorities/auth_ancestor.dds"
+
+    playable = {
+        local_has_dlc = "Synthetic Dawn Story Pack"
+    }
+
+    weight = {
+		base=0
+
+    }
+}
