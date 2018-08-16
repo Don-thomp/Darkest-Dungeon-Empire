@@ -1,0 +1,203 @@
+﻿### Darkest Dungeon
+### Created by Don
+
+Darkest = {
+
+	ship_names = {
+
+		generic = {
+		"Crusader" "Abomination" "Antiquarian" "Arbalest" "Bounty Hunter" "Grave Robber" "Hellion" "Highwayman" "Houndmaster" "Jester" "Leper" "Man-at-Arms" "Occultist" "Plague Doctor" "Vestal" "Shield Breaker" "Flagelant" "Musketeer" 
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		"Heart of Darkness"
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		"Blacksmith" 
+		}
+		
+		transport = {
+		"Stage Coach"
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+		"The Usual Suspects" "War Party	" "The Wall" "The Leper Colony" "Cry Havoc"  "Red Hook" 
+		}			
+
+		sequential_name = "%O% Party"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "%O% Bulwark"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Brigade"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Farmhand"
+		}
+		
+		clone_army = {
+			sequential_name = "%O% Collected Army"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Bone Rabble"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Bone Defenders"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Bone Spearmen"
+		}
+
+		android_defense_army = {
+			sequential_name = "%O% Prophet's Pews"
+		}
+		
+		psionic_army = {
+			sequential_name = "%O% Ascended Cultist"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Shambler"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Templar Brawler"
+		}
+
+		occupation_army = {
+			sequential_name = "%O% Occupation Brigade"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%O% Bone Watchers"
+		}
+
+		android_occupation_army = {
+			sequential_name = "%O% Centurion Watchers"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"The Hamlet" "The Estate" "Absolute Nothingness" "The Courtyard" "The Light"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				"Pliskin's Dunes" "Rattler's Wastes" "The Adder's Desert" "Breaker's Home"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				"The Warrens" "The Swine Tunnels" "The Flesh's Domain" 
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				"The Weald" "The Fungal Woodland" "The Hag's Lands"
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			"The Cove" "The Pelagic Depths" "The Siren's Seas"
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			"The Ruins" "The Bone Land" "The Necromancer's Home"
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			"The Farmstead" "Miller's Farm" "Comet's Crater" "The Sleeper's Dream"
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			Bigby Katherine Missandei Tardif Reynauld Damian Audrey Boudica Dismas William Sarmenti Baldwin Barristan Alhazred Paracelsus Amani Junia 
+			
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+			}
+			
+			regnal_second_names = {
+			}
+		}
+	}
+}
